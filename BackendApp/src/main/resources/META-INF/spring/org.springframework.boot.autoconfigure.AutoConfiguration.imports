@@ -1,0 +1,3 @@
+com.minatogithuborg.secretreplacementthree.config.ApplicationRepositoriesAutoConfiguration
+com.minatogithuborg.secretreplacementthree.config.ApplicationTransactionManagersAutoConfig
+com.minatogithuborg.secretreplacementthree.config.ApplicationProvidersAutoConfiguration
